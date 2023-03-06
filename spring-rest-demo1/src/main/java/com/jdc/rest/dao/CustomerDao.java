@@ -1,0 +1,11 @@
+package com.jdc.rest.dao;
+
+import org.springframework.data.repository.CrudRepository;
+import org.springframework.stereotype.Repository;
+
+import com.jdc.rest.entities.Customer;
+
+@Repository
+public interface CustomerDao extends CrudRepository<Customer, Integer> {
+
+}

@@ -1,0 +1,5 @@
+package com.jdc.rest.entities;
+
+public class Customer {
+
+}

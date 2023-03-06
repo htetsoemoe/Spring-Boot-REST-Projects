@@ -1,0 +1,5 @@
+package com.jdc.rest.controller;
+
+public class CustomerController {
+
+}

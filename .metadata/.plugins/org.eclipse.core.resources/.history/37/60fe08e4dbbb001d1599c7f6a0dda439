@@ -1,0 +1,5 @@
+package com.jdc.rest.dao;
+
+public interface CustomerDao {
+
+}
